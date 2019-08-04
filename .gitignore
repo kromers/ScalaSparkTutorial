@@ -1,2 +1,8 @@
 *.class
 *.log
+.gradle/
+*.iml
+*.ipr
+*.iws
+out/
+build/
